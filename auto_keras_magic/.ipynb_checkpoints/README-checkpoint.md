@@ -1,4 +1,3 @@
-```
 # Machine Learning Using AutoKeras
 
 ## Installation
