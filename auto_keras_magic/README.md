@@ -1,6 +1,3 @@
-I apologize for the inconvenience. Here's the raw Markdown code:
-
-```
 # Machine Learning Using AutoKeras
 
 ## Installation
@@ -38,6 +35,15 @@ Alternatively, you can run the provided script to automate this process:
 ```
 
 This script sets up and activates the virtual environment, then installs all the required dependencies. This setup was tested on Windows 10 using "Cmder" as the console emulator.
+
+## Alternate Installation
+
+- Clone the repository in Google Colab
+- Install autokeras 
+- run following:
+```bash
+python auto_keras_magic.py
+```
 
 ## Description
 
